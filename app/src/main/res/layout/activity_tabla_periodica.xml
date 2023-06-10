@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".TablaPeriodica">
+
+    <TextView
+        android:id="@+id/txtNumPreg"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:paddingLeft="15dp"
+        android:text="PREGUNTA" />
+
+    <TextView
+        android:id="@+id/txtPregunta"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:paddingLeft="15dp"
+        android:text="¿?" />
+
+    <ImageView
+        android:id="@+id/imgTP"
+        android:layout_width="match_parent"
+        android:layout_height="163dp" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="271dp"
+        android:layout_weight="1">
+
+        <RadioButton
+            android:id="@+id/respA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="RadioButton"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <RadioButton
+            android:id="@+id/respB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RadioButton" />
+
+        <RadioButton
+            android:id="@+id/respC"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RadioButton" />
+
+        <RadioButton
+            android:id="@+id/respD"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RadioButton" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btnSiguiente"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:paddingLeft="15dp"
+                android:text="Siguiente" />
+
+            <Button
+                android:id="@+id/btnRegresar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:text="Regresar" />
+
+            <Button
+                android:id="@+id/btnSalir"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:text="Guardar y Salir" />
+        </LinearLayout>
+
+    </RadioGroup>
+
+</LinearLayout>

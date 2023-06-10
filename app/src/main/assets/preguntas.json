@@ -1,0 +1,94 @@
+{
+  "arrayPreguntas": [{
+    "id_Pregunta": 1,
+    "url": "https://i.imgur.com/jyOBVKL.jpg",
+    "Pregunta": "H",
+    "respuesta": "Hidrogeno, 1",
+    "opcion1": "Helio, 34",
+    "opcion2": "Hidrogeno, 2",
+    "opcion3": "Holmio, 17"
+  },
+    {
+      "id_Pregunta": 2,
+      "url": "https://i.imgur.com/8vJLPtv.jpg",
+      "Pregunta": "He",
+      "respuesta": "Helio, 2",
+      "opcion1": "Hierro, 45",
+      "opcion2": "Estaño, 2",
+      "opcion3": "Hasio, 17"
+    },
+    {
+      "id_Pregunta": 3,
+      "url": "https://i.imgur.com/eCR9eUX.jpg",
+      "Pregunta": "Li",
+      "respuesta": "Litio, 3",
+      "opcion1": "Helio, 2",
+      "opcion2": "Estaño, 2",
+      "opcion3": "Hasio, 17"
+    },
+    {
+      "id_Pregunta": 4,
+      "url": "https://i.imgur.com/XR0aSHe.jpg",
+      "Pregunta": "Be",
+      "respuesta": "Berilio, 4",
+      "opcion1": "Helio, 2",
+      "opcion2": "Estaño, 2",
+      "opcion3": "Hasio, 17"
+    },
+    {
+      "id_Pregunta": 5,
+      "url": "https://i.imgur.com/YkN5tjY.jpg",
+      "Pregunta": "B",
+      "respuesta": "Boro, 5",
+      "opcion1": "Helio, 2",
+      "opcion2": "Estaño, 2",
+      "opcion3": "Hasio, 17"
+    },
+    {
+      "id_Pregunta": 6,
+      "url": "https://i.imgur.com/M0wE8pF.jpg",
+      "Pregunta": "B",
+      "respuesta": "Carbono, 6",
+      "opcion1": "Helio, 2",
+      "opcion2": "Estaño, 2",
+      "opcion3": "Hasio, 17"
+    },
+    {
+      "id_Pregunta": 7,
+      "url": "https://i.imgur.com/9HPpCPu.jpg",
+      "Pregunta": "B",
+      "respuesta": "Nitrogeno, 7",
+      "opcion1": "Helio, 2",
+      "opcion2": "Estaño, 2",
+      "opcion3": "Hasio, 17"
+    },
+    {
+      "id_Pregunta": 8,
+      "url": "https://i.imgur.com/whnFFmC.jpg",
+      "Pregunta": "B",
+      "respuesta": "Oxigeno, 8",
+      "opcion1": "Helio, 2",
+      "opcion2": "Estaño, 2",
+      "opcion3": "Hasio, 17"
+    },
+    {
+      "id_Pregunta": 9,
+      "url": "https://i.imgur.com/ahXd3n8.jpg",
+      "Pregunta": "B",
+      "respuesta": "Fluor, 9",
+      "opcion1": "Helio, 2",
+      "opcion2": "Estaño, 2",
+      "opcion3": "Hasio, 17"
+    },
+    {
+      "id_Pregunta": 10,
+      "url": "https://i.imgur.com/TCsHqqf.jpg",
+      "Pregunta": "B",
+      "respuesta": "Neon, 10",
+      "opcion1": "Helio, 2",
+      "opcion2": "Estaño, 2",
+      "opcion3": "Hasio, 17"
+    }
+
+  ]
+}
