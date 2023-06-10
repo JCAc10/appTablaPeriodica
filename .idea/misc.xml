@@ -3,10 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Elvis/AndroidStudioProjects/ProyectoTablaP/app/src/main/res/layout/activity_login.xml" value="0.33" />
-        <entry key="..\:/Users/Elvis/AndroidStudioProjects/ProyectoTablaP/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Users/Elvis/AndroidStudioProjects/ProyectoTablaP/app/src/main/res/layout/activity_tabla_periodica.xml" value="0.33" />
-        <entry key="..\:/Users/Elvis/AndroidStudioProjects/ProyectoTablaP/app/src/main/res/layout/popup.xml" value="0.22" />
+        <entry key="..\:../ProyectoTablaP/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:../ProyectoTablaP/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:../ProyectoTablaP/app/src/main/res/layout/activity_tabla_periodica.xml" value="0.33" />
+        <entry key="..\:../ProyectoTablaP/app/src/main/res/layout/popup.xml" value="0.22" />
       </map>
     </option>
   </component>
